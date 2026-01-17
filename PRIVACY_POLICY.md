@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This Privacy Policy describes how Refocus ("we", "our", or "us") collects, uses, and shares information when you use our application and services.
+This Privacy Policy describes how refocus ("we", "our", or "us") collects, uses, and shares information when you use our application and services.
 
 ## Information We Collect
 
