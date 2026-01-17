@@ -1,10 +1,10 @@
-# Refocus Dashboard Privacy Policy
+# refocus Dashboard Privacy Policy
 
 **Last Updated:** January 2026
 
 ## Overview
 
-Refocus Dashboard ("Refocus," "we," "our") is a personal home dashboard application that displays calendar events, weather, photos, and other household information on a dedicated display device. This privacy policy explains how we handle your data.
+refocus Dashboard ("refocus," "we," "our") is a personal home dashboard application that displays calendar events, weather, photos, and other household information on a dedicated display device. This privacy policy explains how we handle your data.
 
 ## Data We Access
 
@@ -34,7 +34,7 @@ Your data is used solely to:
 
 ## Data Storage
 
-- **All data is stored locally** on your Refocus dashboard device
+- **All data is stored locally** on your refocus dashboard device
 - OAuth tokens for Google services are stored locally and encrypted
 - No personal data is transmitted to or stored on external servers
 - No analytics or tracking data is collected
@@ -44,7 +44,7 @@ Your data is used solely to:
 ### Google Calendar API
 - We use Google's Calendar API to fetch your calendar events
 - Your use of Google services is subject to [Google's Privacy Policy](https://policies.google.com/privacy)
-- You can revoke Refocus's access at any time via [Google Account Permissions](https://myaccount.google.com/permissions)
+- You can revoke refocus's access at any time via [Google Account Permissions](https://myaccount.google.com/permissions)
 
 ### Weather Services
 - Weather data is fetched from third-party weather APIs
@@ -59,7 +59,7 @@ Your data remains on your local device and is never transmitted to us or any oth
 ## Data Retention
 
 - Data remains on your device until you delete it
-- Uninstalling Refocus removes all locally stored data
+- Uninstalling refocus removes all locally stored data
 - You can reset your dashboard at any time through the settings menu
 
 ## Your Rights
@@ -78,7 +78,7 @@ You have the right to:
 
 ## Children's Privacy
 
-Refocus is designed for household use and does not knowingly collect personal information from children under 13.
+refocus is designed for household use and does not knowingly collect personal information from children under 13.
 
 ## Changes to This Policy
 
@@ -88,8 +88,8 @@ We may update this privacy policy from time to time. Any changes will be reflect
 
 For questions about this privacy policy or your data, please contact:
 
-**Email:** [YOUR_EMAIL]
-**GitHub:** [YOUR_GITHUB_URL]
+**Email:** gasthree@gmail.com
+**GitHub:** https://github.com/LuxJuice/refocus
 
 ---
 

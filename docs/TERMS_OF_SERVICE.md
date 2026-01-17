@@ -1,14 +1,14 @@
-# Refocus Dashboard Terms of Service
+# refocus Dashboard Terms of Service
 
 **Last Updated:** January 2026
 
 ## Agreement to Terms
 
-By using Refocus Dashboard ("Refocus," "the Software"), you agree to these Terms of Service. If you do not agree, please do not use the Software.
+By using refocus Dashboard ("refocus," "the Software"), you agree to these Terms of Service. If you do not agree, please do not use the Software.
 
 ## Description of Service
 
-Refocus Dashboard is a personal home dashboard application designed to display:
+refocus Dashboard is a personal home dashboard application designed to display:
 - Calendar events (via Google Calendar integration)
 - Weather information
 - Photos
@@ -18,7 +18,7 @@ The Software runs locally on your personal hardware (Raspberry Pi or similar dev
 
 ## License
 
-Refocus Dashboard is provided for **personal, non-commercial use**. You may:
+refocus Dashboard is provided for **personal, non-commercial use**. You may:
 - Install and run the Software on your personal devices
 - Modify the Software for personal use
 - Share the Software with others for their personal use
@@ -38,7 +38,7 @@ You are responsible for:
 
 ## Third-Party Services
 
-Refocus integrates with third-party services including:
+refocus integrates with third-party services including:
 - **Google Calendar API** - Subject to [Google Terms of Service](https://policies.google.com/terms)
 - **Weather data providers** - Subject to their respective terms
 
@@ -69,7 +69,7 @@ ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE, E
 
 ## Data and Privacy
 
-Your use of Refocus is also governed by our [Privacy Policy](PRIVACY_POLICY.md), which describes how we handle your data. Key points:
+Your use of refocus is also governed by our [Privacy Policy](PRIVACY_POLICY.md), which describes how we handle your data. Key points:
 - All data is stored locally on your device
 - We do not collect, transmit, or store your personal data
 - You maintain full control over your data
@@ -83,7 +83,7 @@ Your use of Refocus is also governed by our [Privacy Policy](PRIVACY_POLICY.md),
 
 ## Account Termination
 
-You may stop using Refocus at any time by:
+You may stop using refocus at any time by:
 - Uninstalling the Software from your device
 - Revoking Google Calendar access via [Google Account Permissions](https://myaccount.google.com/permissions)
 
@@ -101,7 +101,7 @@ If any provision of these Terms is found to be unenforceable, the remaining prov
 
 ## Entire Agreement
 
-These Terms, together with our Privacy Policy, constitute the entire agreement between you and Refocus regarding your use of the Software.
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and refocus regarding your use of the Software.
 
 ## Contact
 
