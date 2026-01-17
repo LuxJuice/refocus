@@ -1,4 +1,6 @@
-# Refocus
+# refocus
+
+![refocus logo](bw_logo@2x.png)
 
 A personal home dashboard for Raspberry Pi.
 
