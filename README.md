@@ -1,6 +1,5 @@
-# refocus
-
 ![refocus logo](bw_logo@2x.png)
+by George Sarkees ([gasthree@gmail.com](mailto:gasthree@gmail.com))
 
 A personal home dashboard for Raspberry Pi.
 
