@@ -67,7 +67,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-Email: privacy@refocus.app
+Email: gasthree@gmail.com
 
 ---
 
