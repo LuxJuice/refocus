@@ -26,4 +26,4 @@ A personal home dashboard for Raspberry Pi.
 
 ## License
 
-Personal use only. See [Terms of Service](https://gist.github.com/LuxJuice/17e09905d29448557f0387b72830a886) and [Privacy Policy](https://gist.github.com/LuxJuice/1161ca541064c07f80a5cbcb3a7e6e9a).
+Personal use only. See [Terms of Service](docs/TERMS_OF_SERVICE.md) and [Privacy Policy](docs/PRIVACY_POLICY.md).
