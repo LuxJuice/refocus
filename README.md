@@ -26,4 +26,4 @@ A personal home dashboard for Raspberry Pi.
 
 ## License
 
-Personal use only. See [Terms of Service](docs/TERMS_OF_SERVICE.md) and [Privacy Policy](docs/PRIVACY_POLICY.md).
+Personal use only. See [Terms of Service](docs/TERMS_OF_SERVICE.html) and [Privacy Policy](docs/PRIVACY_POLICY.html).
